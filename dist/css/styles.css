@@ -1,0 +1,20 @@
+body {font-family: "Poppins", sans-serif;}
+.bg-red-orange {background-color: #d52b1b;}
+.bg-yellow-orange {background-color: #d07a0d;}
+.navbar-nav .nav-link.active {color: #d07a0d;}
+.nav-link:hover {color: #d07a0d;}
+.nav-link {color: #fff;}
+.getBtn {color: #fff;}
+.sideLine {border-right: 1px solid #030F27;}
+.iconHeight {
+    height: 24px;
+    width: 24px;
+}
+
+@media screen and (min-width: 992px) {
+    .sideLine {border-right: none;}
+    .iconHeight {
+        height: 46px;
+        width: 46px;
+    }
+}
