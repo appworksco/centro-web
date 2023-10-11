@@ -1,20 +1,50 @@
-body {font-family: "Poppins", sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {font-family: 'Montserrat', sans-serif;}
 .bg-red-orange {background-color: #d52b1b;}
 .bg-yellow-orange {background-color: #d07a0d;}
-.navbar-nav .nav-link.active {color: #d07a0d;}
-.nav-link:hover {color: #d07a0d;}
-.nav-link {color: #fff;}
-.getBtn {color: #fff;}
-.sideLine {border-right: 1px solid #030F27;}
-.iconHeight {
-    height: 24px;
-    width: 24px;
+.text-justify {text-align: justify;}
+.text-red-orange {color: #d52b1b;}
+.text-yellow-orange {color: #d07a0d;}
+.owl-next, .owl-prev{    
+    display: none;
 }
 
-@media screen and (min-width: 992px) {
-    .sideLine {border-right: none;}
-    .iconHeight {
-        height: 46px;
-        width: 46px;
+/* Site Hero */
+#site-hero {
+    height: 100vh;
+}
+#site-hero .carousel-item img {
+    height: 100vh;
+}
+
+/* Site Header */
+#site-header .navbar-nav .nav-link {
+    border-left: 2px solid #d52b1b;
+    color: #fff;
+}
+#site-header .navbar-nav .nav-link:hover {border-left: 2px solid #ffbb00;}
+#site-header .navbar-nav .nav-link.active {
+    border-left: 2px solid #ffbb00;
+    color: #fff !important;
+}
+
+
+@media (max-width: 767.98px) {
+   /* Site Hero */
+   #site-hero {
+        height: 50vh;
+    }
+    #site-hero .carousel-item img {
+        height: 50vh;
+    }    
+}
+@media (max-width: 991.98px) {
+    /* Site Hero */
+    #site-hero {
+        height: 75vh;
+    }
+    #site-hero .carousel-item img {
+        height: 75vh;
     }
 }
