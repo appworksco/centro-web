@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 
 body {font-family: 'Montserrat', sans-serif;}
 .bg-red-orange {background-color: #d52b1b;}
@@ -12,10 +13,20 @@ body {font-family: 'Montserrat', sans-serif;}
 
 /* Site Hero */
 #site-hero {
-    height: 100vh;
+    background-image:
+    linear-gradient(to bottom, rgb(213, 43, 27, 1), rgba(0, 0, 0, 0.5)),
+    url('.././img/hero-1.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
-#site-hero .carousel-item img {
-    height: 100vh;
+#site-hero h1 {
+    font-family: 'Luckiest Guy', cursive;
 }
 
 /* Site Header */
@@ -33,18 +44,18 @@ body {font-family: 'Montserrat', sans-serif;}
 @media (max-width: 767.98px) {
    /* Site Hero */
    #site-hero {
-        height: 50vh;
+        height: 30vh;
     }
     #site-hero .carousel-item img {
-        height: 50vh;
+        height: 30vh;
     }    
 }
 @media (max-width: 991.98px) {
     /* Site Hero */
     #site-hero {
-        height: 75vh;
+        height: 40vh;
     }
     #site-hero .carousel-item img {
-        height: 75vh;
+        height: 40vh;
     }
 }

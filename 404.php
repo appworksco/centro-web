@@ -15,7 +15,7 @@
     <div class="container d-flex align-items-center justify-content-left">
         <div>
             <h1 class="display-4">Error 404</h1>
-            <p class="lead">A PHP starter template for beginners.</p>
+            <p class="lead">The page your looking for may have been moved, deleted or possibly never existed.</p>
         </div>
     </div>
 </div>
