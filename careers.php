@@ -31,7 +31,7 @@
                 </div>
             </div>
         </div>
-        <div class="bg-red-orange">
+        <div class="bg-solid-orange">
             <div class="container p-0">
                 <nav class="navbar navbar-expand-lg navbar-dark">
                     <div class="container-fluid">
@@ -103,7 +103,7 @@
     <!-- Site Map End -->
 
     <!-- Site Footer Start -->
-    <div id="site-footer" class="bg-red-orange">
+    <div id="site-footer" class="bg-solid-orange">
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -126,7 +126,7 @@
             </div>
         </div>
     </div>
-    <div id="sub-footer" class="bg-yellow-orange">
+    <div id="sub-footer" class="bg-grey-brown">
         <div class="container py-3">
             <p class="text-light m-0">Copyright &copy; 2023 Centro. All Rights Reserved.</p>
             <small class="text-light">Developed By: ICT Department</small>

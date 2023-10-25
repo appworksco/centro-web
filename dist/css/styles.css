@@ -1,22 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap');
 
-body {font-family: 'Montserrat', sans-serif;}
-.bg-red-orange {background-color: #d52b1b;}
+body {font-family: Arial, Helvetica, sans-serif;}
+.bg-solid-orange {background-color: #f05a28;}
 .bg-yellow-orange {background-color: #d07a0d;}
+.bg-grey-brown {background-color: #716558;}
 .text-justify {text-align: justify;}
-.text-red-orange {color: #d52b1b;}
+.text-solid-orange {color: #f05a28;}
 .text-yellow-orange {color: #d07a0d;}
-.owl-next, .owl-prev{    
-    display: none;
-}
+.owl-next, .owl-prev{display: none;}
+h1, h2, h3, h4, h5, h6 {font-family: 'IBM Plex Sans', sans-serif;}
 
 /* Site Hero */
 #site-hero {
     background-image:
-    linear-gradient(to bottom, rgb(213, 43, 27, 1), rgba(0, 0, 0, 0.5)),
-    url('.././img/hero-1.jpg');
-    background-position: top;
+    linear-gradient(to bottom, rgb(241, 90, 41, 1), rgba(255, 230, 190, 0.5)),
+    url('.././img/hero-2.jpg');
+    background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
@@ -26,12 +26,13 @@ body {font-family: 'Montserrat', sans-serif;}
     text-align: center;
 }
 #site-hero h1 {
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'IBM Plex Sans', sans-serif;
+    text-shadow: 2px 2px #716558;
 }
 
 /* Site Header */
 #site-header .navbar-nav .nav-link {
-    border-left: 2px solid #d52b1b;
+    border-left: 2px solid #f05a28;
     color: #fff;
 }
 #site-header .navbar-nav .nav-link:hover {border-left: 2px solid #ffbb00;}
@@ -40,22 +41,13 @@ body {font-family: 'Montserrat', sans-serif;}
     color: #fff !important;
 }
 
-
 @media (max-width: 767.98px) {
-   /* Site Hero */
-   #site-hero {
-        height: 30vh;
-    }
-    #site-hero .carousel-item img {
-        height: 30vh;
-    }    
+    /* Site Hero */
+    #site-hero {height: 30vh;}
+    #site-hero .carousel-item img {height: 30vh;}
 }
 @media (max-width: 991.98px) {
     /* Site Hero */
-    #site-hero {
-        height: 40vh;
-    }
-    #site-hero .carousel-item img {
-        height: 40vh;
-    }
+    #site-hero {height: 40vh;}
+    #site-hero .carousel-item img {height: 40vh;}
 }

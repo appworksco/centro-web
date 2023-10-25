@@ -31,7 +31,7 @@
                 </div>
             </div>
         </div>
-        <div class="bg-red-orange">
+        <div class="bg-solid-orange">
             <div class="container p-0">
                 <nav class="navbar navbar-expand-lg navbar-dark">
                     <div class="container-fluid">
@@ -86,7 +86,7 @@
 				<div class="col-md-6 pb-5">
 					<h3 class="py-3">Why Choose Centro?</h3>
 					<p>Centro is not just a place to shop; it's a destination where you can explore, discover, and find everything you need to enhance your lifestyle. Whether you're a fashion enthusiast, a tech-savvy individual, or someone with an eye for home decor, we have something for everyone.</p>
-					<a href="about" class="btn bg-red-orange text-white text-uppercase">Read More</a>
+					<a href="about" class="btn bg-solid-orange text-white text-uppercase">Read More</a>
 				</div>
 			</div>
 		</div>
@@ -95,14 +95,14 @@
     <!-- Site Departments Start -->
     <div id="site-departments" class="bg-light">
         <div class="container py-5">
-            <h3 class="text-center py-2">Departments</h3>
+            <h3 class="text-center py-4">Departments</h3>
             <div class="owl-carousel owl-theme">
                 <!-- Autoparts -->
                 <div class="card">
                     <div class="card-body p-0">
                         <img src="./dist/img/autoparts.jpg" alt="">
                     </div>
-                    <div class="card-footer bg-red-orange">
+                    <div class="card-footer bg-solid-orange">
                         <p class="text-uppercase text-light text-center fw-bold m-0">Autoparts</p>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                     <div class="card-body p-0">
                         <img src="./dist/img/bakery.jpg" alt="">
                     </div>
-                    <div class="card-footer bg-red-orange">
+                    <div class="card-footer bg-solid-orange">
                         <p class="text-uppercase text-light text-center fw-bold m-0">Bakery</p>
                     </div>
                 </div>
@@ -120,7 +120,7 @@
                     <div class="card-body p-0">
                         <img src="./dist/img/department-store.jpg" alt="">
                     </div>
-                    <div class="card-footer bg-red-orange">
+                    <div class="card-footer bg-solid-orange">
                         <p class="text-uppercase text-light text-center fw-bold m-0">Department Store</p>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
                     <div class="card-body p-0">
                         <img src="./dist/img/fresh-frozen.jpg" alt="">
                     </div>
-                    <div class="card-footer bg-red-orange">
+                    <div class="card-footer bg-solid-orange">
                         <p class="text-uppercase text-light text-center fw-bold m-0">Fresh & Frozen</p>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                     <div class="card-body p-0">
                         <img src="./dist/img/hardware.jpg" alt="">
                     </div>
-                    <div class="card-footer bg-red-orange">
+                    <div class="card-footer bg-solid-orange">
                         <p class="text-uppercase text-light text-center fw-bold m-0">Hardware</p>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
                     <div class="card-body p-0">
                         <img src="./dist/img/supermarket.jpg" alt="">
                     </div>
-                    <div class="card-footer bg-red-orange">
+                    <div class="card-footer bg-solid-orange">
                         <p class="text-uppercase text-light text-center fw-bold m-0">Supermarket</p>
                     </div>
                 </div>
@@ -160,7 +160,7 @@
     <div id="site-tenants">
         <div class="container py-5">
             <div class="row">
-                <h3 class="text-center">Tenants</h3>
+                <h3 class="text-center py-4">Tenants</h3>
                 <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
                     <img src="./dist/img/watsons-logo.png" style="width: 80%">
                 </div>
@@ -185,7 +185,7 @@
     <!-- Site Map End -->
 
     <!-- Site Footer Start -->
-    <div id="site-footer" class="bg-red-orange">
+    <div id="site-footer" class="bg-solid-orange">
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -208,7 +208,7 @@
             </div>
         </div>
     </div>
-    <div id="sub-footer" class="bg-yellow-orange">
+    <div id="sub-footer" class="bg-grey-brown">
         <div class="container py-3">
             <p class="text-light m-0">Copyright &copy; 2023 Centro. All Rights Reserved.</p>
             <small class="text-light">Developed By: ICT Department</small>

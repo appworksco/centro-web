@@ -31,7 +31,7 @@
                 </div>
             </div>
         </div>
-        <div class="bg-red-orange">
+        <div class="bg-solid-orange">
             <div class="container p-0">
                 <nav class="navbar navbar-expand-lg navbar-dark">
                     <div class="container-fluid">
@@ -86,7 +86,6 @@
 				<div class="col-md-6 pb-5">
 					<h3 class="py-3">Why Choose Centro?</h3>
 					<p>Centro is not just a place to shop; it's a destination where you can explore, discover, and find everything you need to enhance your lifestyle. Whether you're a fashion enthusiast, a tech-savvy individual, or someone with an eye for home decor, we have something for everyone.</p>
-					<a href="about" class="btn bg-red-orange text-white text-uppercase">Read More</a>
 				</div>
 			</div>
 		</div>
@@ -99,7 +98,7 @@
     <!-- Site Map End -->
 
     <!-- Site Footer Start -->
-    <div id="site-footer" class="bg-red-orange">
+    <div id="site-footer" class="bg-solid-orange">
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-12">
@@ -122,7 +121,7 @@
             </div>
         </div>
     </div>
-    <div id="sub-footer" class="bg-yellow-orange">
+    <div id="sub-footer" class="bg-grey-brown">
         <div class="container py-3">
             <p class="text-light m-0">Copyright &copy; 2023 Centro. All Rights Reserved.</p>
             <small class="text-light">Developed By: ICT Department</small>
