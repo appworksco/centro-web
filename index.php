@@ -173,6 +173,42 @@
                 <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
                     <img src="./dist/img/potato-corner-logo.png" style="width: 80%">
                 </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/kokkorokkok-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/master-siomai-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/gitagum-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/waffle-time-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/tagoros-abuhan-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/set-1-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/set-2-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/penshoppe-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/set-3-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/rejoice-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/elyn-fashion-accessories-logo.png" style="width: 80%">
+                </div>
+                <div class="col-lg-3 col-md-2 col-sm-2 d-flex align-items-center justify-content-center">
+                    <img src="./dist/img/set-4-logo.png" style="width: 80%">
+                </div>
             </div>
         </div>
     </div>
@@ -198,12 +234,12 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h3 class="text-light">Links</h3>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Home</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; About</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Events</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Careers</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Gallery</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Contacts</a>
+                    <a href="index" class="text-decoration-none text-light">&bullet; Home</a> <br>
+                    <a href="about" class="text-decoration-none text-light">&bullet; About</a> <br>
+                    <a href="events" class="text-decoration-none text-light">&bullet; Events</a> <br>
+                    <a href="careers" class="text-decoration-none text-light">&bullet; Careers</a> <br>
+                    <a href="gallery" class="text-decoration-none text-light">&bullet; Gallery</a> <br>
+                    <a href="contacts" class="text-decoration-none text-light">&bullet; Contacts</a>
                 </div>
             </div>
         </div>

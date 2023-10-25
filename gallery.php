@@ -44,7 +44,7 @@
                                     <a class="nav-link px-4 px-sm-3" href="index">Home</a>
                                 </li>
                                 <li class="nav-item me-4">
-                                    <a class="nav-link px-4 px-sm-3 active" href="about">About</a>
+                                    <a class="nav-link px-4 px-sm-3" href="about">About</a>
                                 </li>
                                 <li class="nav-item me-4">
                                     <a class="nav-link px-4 px-sm-3" href="events">Events</a>
@@ -53,7 +53,7 @@
                                     <a class="nav-link px-4 px-sm-3" href="careers">Careers</a>
                                 </li>
                                 <li class="nav-item me-4">
-                                    <a class="nav-link px-4 px-sm-3" href="gallery">Gallery</a>
+                                    <a class="nav-link px-4 px-sm-3 active" href="gallery">Gallery</a>
                                 </li>
                                 <li class="nav-item me-4">
                                     <a class="nav-link px-4 px-sm-3" href="contacts">Contacts</a>
@@ -71,23 +71,20 @@
     <div id="site-hero">
         <div class="container">
             <div class="col-12">
-                <h1 class="display-4 text-light text-uppercase">About</h1>
+                <h1 class="display-4 text-light text-uppercase">Gallery</h1>
             </div>
         </div>
 	</div>
     <!-- Site Hero End -->
 
     <div style="overflow: hidden;">
-		<div class="container py-3">
-			<div class="row py-sm-5 d-flex align-items-center justify-content-center">
-				<div class="col-md-6 d-flex justify-content-center">
-					<img src="./dist/img/img-1.jpg" class="w-100 py-5">
-				</div>
-				<div class="col-md-6 pb-5">
-					<h3 class="py-3">Why Choose Centro?</h3>
-					<p>Centro is not just a place to shop; it's a destination where you can explore, discover, and find everything you need to enhance your lifestyle. Whether you're a fashion enthusiast, a tech-savvy individual, or someone with an eye for home decor, we have something for everyone.</p>
-				</div>
-			</div>
+		<div class="container pt-3">
+        <div class="row" data-masonry='{"percentPosition": true }'>
+    <div class="col-sm-6 col-lg-4 mb-4">
+      <div class="card">
+        <svg class="bd-placeholder-img card-img-top" width="100%" height="200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Image cap" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#868e96"/><text y="50%" x="40%" fill="#dee2e6" dy=".3em">Image cap</text></svg>
+    </div>
+  </div>
 		</div>
 	</div>
 

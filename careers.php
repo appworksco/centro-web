@@ -87,7 +87,6 @@
                             <div>
                                 <h5>Position Title</h5>
                                 <p>Job Description <br> <strong>[Requirements]</strong></p>
-                                <small>Posted Date <br> Posted By</small>
                             </div>
                         </div>
                     </div>
@@ -116,12 +115,12 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <h3 class="text-light">Links</h3>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Home</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; About</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Events</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Careers</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Gallery</a> <br>
-                    <a href="#" class="text-decoration-none text-light">&bullet; Contacts</a>
+                    <a href="index" class="text-decoration-none text-light">&bullet; Home</a> <br>
+                    <a href="about" class="text-decoration-none text-light">&bullet; About</a> <br>
+                    <a href="events" class="text-decoration-none text-light">&bullet; Events</a> <br>
+                    <a href="careers" class="text-decoration-none text-light">&bullet; Careers</a> <br>
+                    <a href="gallery" class="text-decoration-none text-light">&bullet; Gallery</a> <br>
+                    <a href="contacts" class="text-decoration-none text-light">&bullet; Contacts</a>
                 </div>
             </div>
         </div>
